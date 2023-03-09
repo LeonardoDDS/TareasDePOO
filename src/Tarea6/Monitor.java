@@ -1,3 +1,5 @@
+package Tarea6;
+
 public class Monitor {
     private double pulgadas;
     private String marca;
@@ -58,7 +60,7 @@ public class Monitor {
 
     @Override
     public String toString() {
-        return "Monitor{" +
+        return "Tarea5.Tarea5.Monitor{" +
                 "pulgadas=" + pulgadas +
                 ", marca='" + marca + '\'' +
                 ", modelo='" + modelo + '\'' +

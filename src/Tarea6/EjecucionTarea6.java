@@ -1,3 +1,5 @@
+package Tarea6;
+
 import java.awt.*;
 
 public class EjecucionTarea6 {

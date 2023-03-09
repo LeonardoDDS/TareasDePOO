@@ -1,3 +1,5 @@
+package Tarea6;
+
 public class Persona {
     private int edad;
     private String nombre;
@@ -57,7 +59,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "Persona{" +
+        return "Tarea5.Tarea5.Persona{" +
                 "edad=" + edad +
                 ", nombre='" + nombre + '\'' +
                 ", estatura=" + estatura +

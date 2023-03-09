@@ -1,5 +1,6 @@
+package Tarea6;
+
 import java.awt.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Automovil {
@@ -62,7 +63,7 @@ public class Automovil {
 
     @Override
     public String toString() {
-        return "Automovil{" +
+        return "Tarea5.Tarea5.Automovil{" +
                 "marca='" + marca + '\'' +
                 ", submarca='" + submarca + '\'' +
                 ", modelo=" + modelo +

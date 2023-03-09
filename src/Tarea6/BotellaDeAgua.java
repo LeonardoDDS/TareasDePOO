@@ -1,3 +1,5 @@
+package Tarea6;
+
 import java.awt.*;
 
 public class BotellaDeAgua {
@@ -49,7 +51,7 @@ public class BotellaDeAgua {
     }
     @Override
     public String toString() {
-        return "BotellaDeAgua{" +
+        return "Tarea5.Tarea5.BotellaDeAgua{" +
                 "marca='" + marca + '\'' +
                 ", capacidad=" + capacidad +
                 ", color=" + color +
